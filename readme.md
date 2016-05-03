@@ -28,6 +28,7 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 
 - [zen-observable](https://github.com/zenparsing/zen-observable)
 - [RxJS](https://github.com/ReactiveX/RxJS)
+- [xstream](https://github.com/staltz/xstream)
 
 
 ## Packages
