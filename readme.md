@@ -41,6 +41,13 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 - [localForage-observable](https://github.com/thgreasi/localForage-observable) - Observables for localForage.
 
 
+## Libraries
+
+These are libraries that harness the power of Observables, not necessarily Observable implementations.
+
+- [Cycle.js](http://cycle.js.org) - A fully reactive JavaScript framework for Human-Computer Interaction.
+
+
 ## Articles
 
 - [The introduction to Reactive programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) - Reactive programming using Observables.
