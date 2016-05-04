@@ -2,8 +2,6 @@
 
 > An [Observable](https://github.com/zenparsing/es-observable) is a collection that arrives over time. Observables can be used to model push-based data sources such as events, timer intervals, asynchronous requests, and animations. Observables can be transformed, combined, and consumed using array-like methods.
 
-Note that this list is focused on the [JavaScript Observable proposal](https://github.com/zenparsing/es-observable) and Observables in general, not Observable implementations not adhering to the proposed spec or Observables in other languages.
-
 You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs).
 
 *Please read the [contribution guidelines](contributing.md) before contributing.*
