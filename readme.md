@@ -12,6 +12,7 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 - [Documentation](#documentation)
 - [Implementations](#implementations)
 - [Packages](#packages)
+- [Libraries](#libraries)
 - [Articles](#articles)
 - [Videos](#videos)
 
@@ -55,7 +56,7 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 
 ## Videos
 
-- [Introducing the Observable](https://egghead.io/lessons/javascript-introducing-the-observable) - egghead.io lesson.
+- [Introducing the Observable](https://egghead.io/lessons/javascript-introducing-the-observable) - Egghead.io lesson.
 
 
 ## License
