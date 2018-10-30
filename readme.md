@@ -20,7 +20,6 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 ## Documentation
 
 - [Overview](https://github.com/zenparsing/es-observable)
-- [Specification](https://zenparsing.github.io/es-observable/)
 
 
 ## Implementations
