@@ -19,8 +19,8 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 
 ## Documentation
 
-- [Overview](https://github.com/zenparsing/es-observable)
-- [Specification](https://zenparsing.github.io/es-observable/)
+- [Overview](https://github.com/tc39/proposal-observable)
+- [Specification](https://tc39.github.io/proposal-observable/)
 
 
 ## Implementations
