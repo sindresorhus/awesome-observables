@@ -26,6 +26,7 @@
 
 ## Packages
 
+- [ObservableLike](https://github.com/sindresorhus/type-fest/blob/main/source/observable-like.d.ts) - TypeScript type.
 - [any-observable](https://github.com/sindresorhus/any-observable) - Support any Observable library and polyfill.
 - [is-observable](https://github.com/sindresorhus/is-observable) - Check if a value is an Observable.
 - [observable-to-promise](https://github.com/sindresorhus/observable-to-promise) - Convert an Observable to a Promise.
@@ -44,7 +45,7 @@
 
 - [The introduction to Reactive programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) - Reactive programming using Observables.
 - [Everywhereness as a foundation](http://staltz.com/everywhereness-as-a-foundation.html) - Benefits of using Observables everywhere.
-- [Learning Observable By Building Observable](https://medium.com/@benlesh/learning-observable-by-building-observable-d5da57405d87)
+- [Learning Observable By Building Observable](https://benlesh.com/posts/learning-observable-by-building-observable/) *(Updated 2021-07-08)*
 
 ## Videos
 
